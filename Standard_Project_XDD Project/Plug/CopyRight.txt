@@ -1,0 +1,17 @@
+**************************CopyRight************************************************
+All plug used in this project will be marked with the download source,, 
+and the plug copyright belongs to the plug-in developer.
+**************************Plug List************************************************
+Input+Manager+v4.1: https://www.kaskobi.com/projectmanager
+Output+Manager+v4.1: https://www.kaskobi.com/projectmanager
+Eyedrop+v2.0.1: https://www.kaskobi.com/eyedrop
+Page+Switcher: https://www.kaskobi.com/page-switcher
+MicroLight v1.2.1: https://www.kaskobi.com/microlight
+MIDIext4.3: https://www.kaskobi.com/midiextension
+Tempo+Changer: https://www.kaskobi.com/tempo-changer
+
+Twist: no link,author:mat1jsczyyy
+（Bug Note: only support 8 page automatic turning)
+
+Wormhole+Lite: https://www.kaskobi.com/wormhole-lite
+Resonator+v3.0: https://www.kaskobi.com/resonator
